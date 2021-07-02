@@ -1,0 +1,41 @@
+{
+    "footer": {
+        "motivation_message": "Život je ono što ti se dešava dok ti praviš planove, zato planiraj najbolje uz Tasić enterijere.",
+        "contact": "Kontakt",
+        "location": "Lokacija",
+        "work_hours": "Radno vreme: 07:00-16:00"
+    },
+    "about": {
+        "card_title": "O NAMA",
+        "card_text": " Tasić Enterijeri su firma koja se bavi proizvodnjom namštaja po meri. Već više od 10 godina, kompanija Tasić Enterijeri nudi odličan kvalitet i uslugu. Ono što je započelo kao malo preduzeće sa samo dva radnika, preraslo je u veliko proizvodno preduzeće. Naše usluge pored teritorije Srbije, pružamo i u velikim Evropskim gradovima, kao što su Pariz, Berlin, Minhen, Prag itd.. Naši radovi se kreću od jednostavnih stambenih do složenih projekata sa puno detalja. Uvek pratimo i držimo korak sa najvišim industrijskim standardima. Naše mašine, zajedno sa pažnjom prema detaljima, obezbediće krajnje zadovoljstvo našim klijentima.",
+        "gallery": "Galerija",
+        "contact": "Kontakt",
+        "address": "Adresa:",
+        "phone": "Telefon:"
+    },
+    "header": {
+        "home": "Početna",
+        "products": "Proizvodi",
+        "about": "O nama"
+    },
+    "products": {
+        "title": "TASIĆ ENTERIJERI - NAMEŠTAJ PO MERI",
+        "kitchen_title": "KUHINJE",
+        "kitchen_text_1": "„Tasić enterijeri“ su najbrži put do kuhinje iz vaših snova. Tu smo da, ako treba, pomognemo da definišete vaše želje i potrebe i da ih onda kvalitetno i pouzdano realizujemo. Bez obzira na veličinu prostora, naš tim će unjemu isprojektovati maksimalno funkcionalnu kuhinju koja će kuhinjske poslove učiniti lakšim, efikasnijim i prijatnijim.",
+        "kitchen_text_2": "Najukusniji obroci se spremaju u kuhinji po Vašem ukusu!",
+        "gallery": "Galerija",
+        "workspace_title": "POSLOVNI PROSTORI",
+        "workspace_text": "Moderan čovek veliki deo svog života provodi na poslu. Bilo da govorimo o velikim kancelarijama, ili o skromnim kućnim radnim prostorima, ili mestima za sastanke, ili radnim sobama učenika i studenata, ova mesta bi trebalo da budu inteligentno, praktično i efikasno dizajnirana. Prijatan i ergonomski radni ambijent je preduslov za bolje poslovne i intelektualne rezlutate, a „Tasić enterijeri“ vaš uspeh smatraju svojim uspehom.",
+        "wardrobes_title": "PLAKARI",
+        "wardrobes_text": "I u najvećim stambenim jedinicama, smeštanje odeće ume da predstavlja problem. Nekako nam uvek nedostaje još jedan ormar, jedna fioka, jedna polica... Za uređen dom u kojem svaka stvar ima svoje mesto, neophodni su ormari i plakari, koji svojom organizacijom maksimalno koriste, a svojim dizajnom značajno ulepšavaju prostor. „Tasić enterijeri“ imaju bogato iskustvo u izradi svih vrsta ormara i ugradnih američkih plakara.",
+        "bedrooms_title": "SPAVAĆE SOBE",
+        "bedrooms_text": "Bez kvalitetnog sna, nema kvalitetnog života. Zbog toga „Tasić enterijeri“ mnogo pažnje posvećuju uređenju spavaćih soba. Kvalitetni, stabilni i izdržljivi kreveti daće dugogodišnju potporu Vašim mirnim snovima. Komode, police, stalaže, dodatno čine da Vam sve neophodne sitnice ili osvetljenje budu sigurno smeštene na dohvat ruke. Komadi nameštaja za odlaganje odeće, posteljine, učiniće da prostor za odmor bude uredan i prijatan.",
+        "living_room_title": "DNEVNI BORAVAK",
+        "living_room_text": "Dnevni boravak predstavlja centralno mesto za okupljanje porodice i vesela druženja sa prijateljima. Drugo mesto okupljanja i opuštanja je trpezarija u kojoj se odvijaju rituali od jutarnjih ispijanja kafe, preko porodičnih ručkova, do Slava i proslava. „Tasić enterijeri“ se trude da dizajniranjem, projektovanjem i izradom nameštaja za ove prostorije, iste ispune toplinom i stilom i učine da vaši lepi događaji budu još lepši.",
+        "doors_title": "VRATA",
+        "doors_text": "Glavna uloga vrata u svakom domu je da pregrade prostor, da izoluju zvuke i toplotu i da vizuelno odvoje. Ali, vrata nisu samo mesta razdvajanja, već i spajanja, pa je potrebno da svojim karakteristikama omoguće neometan prolaz, kao i da vizuelno odgovore na potrebe enterijera. Iako su se nekada smatrala sastavnim delom zidova, danas su sobna vrata veoma bitan kreativni momenat svakog stambenog objekta."
+    },
+    "gallery": {
+        "title": "TASIĆ ENTERIJERI - NAMEŠTAJ PO MERI"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "footer": {
+        "motivation_message": "Life is what happens while you make plans, so plan best with Tasić Enterijeri.",
+        "contact": "Contact",
+        "location": "Location",
+        "work_hours": "Work hours: 07:00-16:00"
+    },
+    "about": {
+        "card_title": "ABOUT US",
+        "card_text": "Tasić Enterijeri is a company that manufactures custom furniture. For more than 10 years, the company Tasić Enterijeri has been offering excellent quality and services. What started as a small company with only two workers, has grown into a large manufacturing company. In addition to the territory of Serbia, we also provide our services in large European cities, such as Paris, Berlin, Munich, Prague, etc .. Our works range from simple housing to complex projects with a lot of details. We always follow and keep pace with the highest industry standards. Our machines, together with attention to detail, will provide the ultimate satisfaction to our customers.",
+        "gallery": "Gallery",
+        "contact": "Contact",
+        "address": "Address:",
+        "phone": "Phone number:"
+    },
+    "header": {
+        "home": "Home",
+        "products": "Products",
+        "about": "About"
+    },
+    "products": {
+        "title": "TASIĆ ENTERIJERI - CUSTOM FURNITURE",
+        "kitchen_title": "KITCHENS",
+        "kitchen_text_1": "„Tasić enterijeri“ is the fastest way to the kitchen of your dreams. We are here to, if necessary, help you define your wishes and needs and then realize them with quality and reliability. Regardless of the size of the space, our team will design a maximally functional kitchen that will make kitchen work easier, more efficient and more pleasant.",
+        "kitchen_text_2": "The most delicious meals are prepared in the kitchen of your choice!",
+        "gallery": "Gallery",
+        "workspace_title": "WORKSPACES",
+        "workspace_text": "A modern man spends much of his life at work. Whether we are talking about large offices, or modest home workspaces, or meeting places, or study rooms for students, these places should be intelligently, practically and efficiently designed. Pleasant and ergonomic working environment is a prerequisite for better business and intellectual results, and „Tasić enterijeri“ consider your success as their success.",
+        "wardrobes_title": "WARDROBES",
+        "wardrobes_text": "Even in the largest housing units, storing clothes can be a problem. Somehow, we always lack another closet, one drawer, one shelf ... For a tidy home where every thing has its place, closets and cabinets are necessary, which use their organization to the maximum, and significantly beautify the space with their design. „Tasić enterijeri“ have rich experience in making all types of cabinets and built-in American closets.",
+        "bedrooms_title": "BEDROOMS",
+        "bedrooms_text": "Without quality sleep, there is no quality life. That is why „Tasić enterijeri“ pay a lot of attention to the decoration of bedrooms. Quality, stable and durable beds will give long-term support to your peaceful dreams. Chests of drawers and shelves additionally make sure that all the necessary little things or lighting are safely placed at your fingertips. Pieces of furniture for storing clothes, bedding, will make the rest area tidy and pleasant.",
+        "living_room_title": "LIVING ROOMS",
+        "living_room_text": "The living room is a central place for family gatherings and cheerful gatherings with friends. Another place to gather and relax is the dining room, where rituals take place from morning coffee drinking, through family lunches, to celebrations. „Tasić enterijeri“ strives to fill, design and make furniture for these rooms, to fill them with warmth and style and make your beautiful events even more beautiful.",
+        "doors_title": "DOORS",
+        "doors_text": "The main role of doors in every home is to partition the space, to insulate sounds and heat and to visually separate it. But, doors are not only places of separation, but also joints, so it is necessary for their characteristics to enable unobstructed passage, as well as to visually respond to the needs of the interior. Although they were once considered an integral part of the walls, today the room door is a very important creative moment of any residential building."
+    },
+    "gallery": {
+        "title": "TASIĆ ENTERIJERI - CUSTOM FURNITURE"
+    }
+}

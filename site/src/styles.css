@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+a {
+    color: black;
+  }
+  
+  a:hover {
+    color:black;
+    text-decoration: none;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+  }
+
+  section {
+    padding: 60px 0;
+  }
+  
+  .section-bg, .services .icon-box {
+    background-color: #f8f9fa;
+  }
+  
+  .section-title {
+    padding-bottom: 40px;
+  }
+  
+  .section-title h2 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .section-title h2::after {
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #e6636a;
+    margin: 4px 10px;
+  }
+  
+  .section-title p {
+    margin: 0;
+    margin: 0;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #556270;
+  }
+
+  @font-face{
+    font-family: varsity;
+    src: url(assets/fonts/VarsityTeam-Bold.otf) format("opentype"); 
+  }
+  

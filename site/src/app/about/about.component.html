@@ -1,0 +1,74 @@
+<div class="container">
+    <section id="blog" class="blog">
+        <article class="entry card mb-3" style="width: 100%; border: 1px solid lightgray;">
+
+            <div class="entry-img">
+                <img src="../../assets/images/cards/onama.jpg" class="img-fluid">
+            </div>
+
+            <h2 class="entry-title" style="text-align: center;">
+                <a translate>about.card_title</a>
+            </h2>
+
+
+            <div class="entry-content">
+                <p translate> about.card_text </p>
+                <div class="view-gallery">
+                    <a [routerLink]="['/gallery/6']" translate>about.gallery</a>
+                </div>
+            </div>
+
+        </article>
+    </section>
+</div>
+
+<!-- ======= Breadcrumbs ======= -->
+<section id="breadcrumbs" class="breadcrumbs">
+    <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+            <h2 class="text" translate>about.contact</h2>
+        </div>
+
+    </div>
+</section><!-- End Breadcrumbs -->
+
+<!-- ======= Contact Section ======= -->
+<section id="contact" class="contact">
+    <div class="container">
+
+        <div>
+            <iframe style=" width: 100%; height: 300px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.849);"
+                src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Tasic%20Enterijeri,%20E761,%20Drijetanj,%20Serbia+(Tasic%20enterijeri)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+                frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <div class="row mt-5">
+            <div class="row info">
+                <div class="col-sm">
+                    <div class="address">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+                        <h4 translate>about.address</h4>
+                        <p>Popova voda, Drijetanj, Užice,</p>
+                        <p> 31311 Bela Zemlja</p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="address">
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <h4>Email:</h4>
+                        <p>tasicenterijeri@gmail.com</p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="address">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                        <h4 translate>about.phone</h4>
+                        <p>Predrag Tasić: +381642299255</p>
+                        <p>Nenad Tasić: +381642615353</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!-- End Contact Section -->
