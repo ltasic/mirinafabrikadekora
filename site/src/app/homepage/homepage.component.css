@@ -248,7 +248,7 @@ div.col-sm-4:hover{
   }
   .fa {
       display: inline-block;
-      font: normal normal normal 14px/1 FontAwesome;
+      font: normal normal normal 14px/1;
       font-size: inherit;
       text-rendering: auto;
       -webkit-font-smoothing: antialiased;
@@ -286,3 +286,7 @@ div.col-sm-4:hover{
       float: right;
       line-height: 30px;
   }
+
+  .text-custom{
+    color: #28a745 !important;
+    }
