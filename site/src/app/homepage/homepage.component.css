@@ -290,3 +290,8 @@ div.col-sm-4:hover{
   .text-custom{
     color: #28a745 !important;
     }
+
+    .container {
+      position: relative;
+    }
+    

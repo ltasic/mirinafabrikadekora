@@ -228,7 +228,9 @@ header .item {
   box-shadow: 1px 5px 9px rgba(241, 96, 1, 0.32);
 }
 
-
+#send{
+  margin-left: 20%;
+}
 
 /*======= Responsive ======*/
 @media (min-width: 768px) {
@@ -288,3 +290,4 @@ header .item {
   padding-right: 0px;
 }
 }
+
