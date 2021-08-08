@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Title } from '@angular/platform-browser';
 
 
 @Component({
@@ -9,7 +10,12 @@ import { Component, OnInit } from '@angular/core';
 
 export class AppComponent implements OnInit {
 
-  title = 'site';
+  
+  constructor(private titleService: Title) {
+    titleService.setTitle("Mirina fabrika dekora");
+  } 
+
+  title = 'Mirina fabrika dekora';
 
 
   ngOnInit(): void {
