@@ -12,7 +12,9 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core'
 import { HttpClientModule, HttpClient } from '@angular/common/http';
-import { ContactComponent } from './contact/contact.component'
+import { ContactComponent } from './contact/contact.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment'
 
 export function rootLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, "assets/i18n/", ".json")
@@ -39,7 +41,8 @@ export function rootLoaderFactory(http: HttpClient) {
         useFactory: rootLoaderFactory,
         deps: [HttpClient]
       }
-    })
+    }),
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
   bootstrap: [AppComponent]
