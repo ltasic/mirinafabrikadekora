@@ -233,8 +233,14 @@ body{
   height: auto; 
 }
 
+h5{
+  margin-top: 8%;
+}
 
-
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
 
 
 
