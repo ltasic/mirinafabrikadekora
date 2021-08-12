@@ -11,7 +11,7 @@ import { Title } from '@angular/platform-browser';
 export class AppComponent implements OnInit {
 
   
-  constructor(private titleService: Title) {
+  public constructor(private titleService: Title) {
     titleService.setTitle("Mirina fabrika dekora");
   } 
 
